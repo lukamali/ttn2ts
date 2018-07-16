@@ -59,7 +59,7 @@ Add integration: **HTTP Integration**
 Select Access Key: **default key**
 
 Add URL (and use your TS API Key and TTN field names): 
-> http://mali.si/ttn/?api_key=MY_TS_WRITE_API_KEY&field1=temperature&field2=humidity
+> http://mali.si/ttn2ts/?api_key=MY_TS_WRITE_API_KEY&field1=temperature&field2=humidity
 
 _Proxy supports up to 8 field parameters._
 
